@@ -1,6 +1,6 @@
-# Evil Corporate – Autonomous Cybersecurity Briefings
+# Agent LLM Reporter – Autonomous Cybersecurity Briefings
 
-Evil Corporate is an autonomous workflow that collects the latest cybersecurity
+Agent LLM Reporter is an autonomous workflow that collects the latest cybersecurity
 headlines, summarises them with an LLM, and publishes a dark, minimalist brief
 on GitHub Pages.
 
