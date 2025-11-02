@@ -76,8 +76,11 @@ The workflow runs every day at 07:00 UTC. It installs dependencies, executes the
 update script, stages the regenerated artefacts, and opens a brand-new pull
 request with the agent-authored commit message, headline, and briefing notes.
 This avoids force-pushing over an existing branch and keeps the history clean
-when multiple reviews happen in parallel. Merge the bot PR whenever you are
-ready to publish the refresh.
+when multiple reviews happen in parallel. Once the new pull request is opened,
+the automation closes any previous bot PRs and attempts to merge the fresh
+update into the base branch. If GitHub reports a conflict, the workflow leaves a
+comment explaining what happened so you can resolve it manually before the next
+scheduled run.
 
 ## Customising the site
 
