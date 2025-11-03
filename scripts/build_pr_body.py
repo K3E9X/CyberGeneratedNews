@@ -2,6 +2,7 @@
 """Build the pull request body from agent state."""
 import json
 import os
+import uuid
 from pathlib import Path
 
 headline = "(headline unavailable)"
@@ -41,7 +42,10 @@ body = f"""## Summary
 {action_items}
 """.strip()
 
+# Write to GitHub Actions output using unique delimiter
+delimiter = f"ghadelimiter_{uuid.uuid4().hex}"
+
 with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
-    handle.write("body<<'EOF'\n")
+    handle.write(f"body<<{delimiter}\n")
     handle.write(body + "\n")
-    handle.write("EOF\n")
+    handle.write(f"{delimiter}\n")
