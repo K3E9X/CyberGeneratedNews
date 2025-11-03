@@ -1,6 +1,6 @@
 # CyberNews – Autonomous Cybersecurity Briefings
 
-> **📰 [Voir les news cybersécurité en direct sur la page](https://k3e9x.github.io/CyberGeneratedNews/)**
+> **📰 [Voir les news cybersécurité en direct](https://k3e9x.github.io/CyberNews/)**
 
 CyberNews is an autonomous workflow that collects the latest cybersecurity
 headlines, lets an LLM agent reason over them, and publishes a dark, minimalist
