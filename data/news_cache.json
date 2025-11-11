@@ -149,6 +149,14 @@
     "summary": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management\u2026",
     "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services"
   },
+  "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9KHcsG95CDCZyquDxpW0r7mwKqS02FDVPKQJBLIZO-Xgsak_Ckjpdc3QI4i0oIU0IH9uZXTLmFqVzhUPsouw4BHMzdVsBu26TIdddQNNTx0tHeXh4xWNaT6NWo_UnmwxqRqtaIYB22kbynOZyWCutb5wAYEnhuRVm5rmasUtSq8LE2PB-Q9daDiprSyK/s1600/vscode.jpg",
+    "published": "2025-11-10T08:51:00+00:00",
+    "source": "The Hacker News",
+    "summary": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Co\u2026",
+    "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs"
+  },
   "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOkWkPtJDt7NMpDyyxu0Dk8yD4cQupOSEtWa8Ph06Klxkm05DGxVyJqHeTD-_4jReaEKMuUp7tqz4QVLk0ZBk6cqAtTMm3idDSrunWqxh8mtFcm2kHp3Fnz73N1fT4Cp3Drx6I4SW-4S9H5OkbyM-grrLyeG6_taTh04R2sckKoe74Mzo6cmNk5DVxWWbJ/s1600/map.jpg",
@@ -173,6 +181,14 @@
     "summary": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its \u2026",
     "title": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit"
   },
+  "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8M2fayypp4tc7l9XXHjTnXQnhElB2WNkkdqTieUwFXlwEx60oLFnbxhHJQDW3kk7TrkYf5s3WrZEjoaRhTEfVhkehsPEgFQQTIs_KH9FgqGP_ozimhhEazGWZCDR7p5CVEyCo5cf-V5_8HlzJCIl0lGMTdArM6v9-U-BPKd5vbkaINt60uHPrqNSidg7j/s1600/hackers.png",
+    "published": "2025-11-10T20:49:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.\nThe critical vulnera\u2026",
+    "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature"
+  },
   "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGBz7Fh35GCGnvq_75iKz59PN9dxPcO-sdZAGTMvQPVJ9tzq2wM8w5LzPxk1ZR8TITolw6e66VvmGhhE4Mu66MyW71fGIK1jVGkZU0TTOP01chaZWdcGzVYPwPMDz5spgt8ZajT7HOTW8cRBpFmudNWD6XIlQiZto9DdeuUPYUvGh4kOISUNI0TDt7DLq7/s1600/iwndows.jpg",
@@ -188,6 +204,22 @@
     "source": "The Hacker News",
     "summary": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to\u2026",
     "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation"
+  },
+  "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpCQ5f-ly7CHt6FDz9ULaJDLRDxJIrT9-GScn1vGk8jXp6zSXDDAMGMMZ-LY2bolu8-7HPoW0BNzFEyouKuyHNukvjbtUF16MiYto_WUV9Ve3x7ZJZYoE0J54qzT0VPtdZ_Bs54xIN53ifzW_Kqrd5QLPAEDEjUgfpUkcLLngM1_KrJaUi44JLAcg5m-f/s1600/hub.jpg",
+    "published": "2025-11-10T20:29:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data the\u2026",
+    "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon"
+  },
+  "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV8goc_pldbDLv5iqvwy1lPOMsFiJpxyBnaT86LqU-Cikl8RRxTJ_85lGPLG5gJvW-2xj77n-slDQ_lzrJ3AviPJUPYT4j_P1X0iQ5UHvohnr_OIVlSubxcbNN09PqQurWuIoLI9SCJ1K1hLnT9PzL5YLJEkPTyeKQYpySzXtTrlITtdSAzvBqAblnS4rX/s1600/hotel-hacks.jpg",
+    "published": "2025-11-10T09:11:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by dep\u2026",
+    "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware"
   },
   "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html": {
     "categories": [],
@@ -228,6 +260,14 @@
     "source": "The Hacker News",
     "summary": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and A\u2026",
     "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions"
+  },
+  "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmfzDsP62FvRPwIyRZdDAPcaehng_GAhvSGbVAVkKWjMNyxews4CW0LRurCcsr3Wt2XCRsHWZhnOcHb3RjeKNRjsWLE_QxFNXfxEHm8LQoN5ecufFEZc-ARX6ZEl85Klpq4Z_1CsjybYHBXtUCo2kfydWn9ktUBCrTZrHHpm0aIkMX3fJAdflArlX-84/s1600/browser.jpg",
+    "published": "2025-11-10T11:58:06+00:00",
+    "source": "The Hacker News",
+    "summary": "New Browser Security Report Reveals Emerging Threats for Enterprises According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user\u2019s browser. Yet traditional controls like DL\u2026",
+    "title": "New Browser Security Report Reveals Emerging Threats for Enterprises"
   },
   "https://thehackernews.com/2025/11/new-httptroy-backdoor-poses-as-vpn.html": {
     "categories": [],
@@ -340,6 +380,14 @@
     "source": "The Hacker News",
     "summary": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence \u2013 in\u2026",
     "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities"
+  },
+  "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihDn-ouAjSamS6qppMqJQp0muEjFRy3-Rs2m4u6iNunhDZUPSbi9CQMC1Ub8r7CFkHVo_7B98nwiZbsLlbg2Xq_Im67d6GvqaEaq3ZILZfZVhYafqJydsDCggwkh_n3q-XDcZJ_JLFalQ7E_KK-nYa9_YrOZl62NnyglLa5vmtdWPF7K9lH07l32yv72CI/s1600/recap-nov.jpg",
+    "published": "2025-11-10T12:51:00+00:00",
+    "source": "The Hacker News",
+    "summary": "\u26a1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More Cyber threats didn\u2019t slow down last week\u2014and attackers are getting smarter. We\u2019re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targ\u2026",
+    "title": "\u26a1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More"
   },
   "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html": {
     "categories": [],
@@ -534,6 +582,16 @@
     "summary": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs If you have two headphones, speakers, earbuds, or any other Bluetooth hardware, you can now use both simultaneously on a Copilot+ PC. [...]",
     "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs"
   },
+  "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-10T15:01:11+00:00",
+    "source": "BleepingComputer",
+    "summary": "5 reasons why attackers are phishing over LinkedIn Attackers are increasingly phishing over LinkedIn to reach executives and bypass email security tools. Push Security explains how real-time browser protection detects and blocks phishing across apps and channels as users load mal\u2026",
+    "title": "5 reasons why attackers are phishing over LinkedIn"
+  },
   "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/": {
     "categories": [
       "Security",
@@ -564,6 +622,16 @@
     "summary": "Apache OpenOffice disputes data breach claims by ransomware gang The Apache Software Foundation disputes claims that its OpenOffice project suffered an Akira ransomware attack, after the threat actors claimed to have stolen 23 GB of corporate documents. [...]",
     "title": "Apache OpenOffice disputes data breach claims by ransomware gang"
   },
+  "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-11T00:46:40+00:00",
+    "source": "BleepingComputer",
+    "summary": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices. [...]",
+    "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks"
+  },
   "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/": {
     "categories": [
       "Security"
@@ -590,6 +658,16 @@
     "source": "BleepingComputer",
     "summary": "CISA: High-severity Linux flaw now exploited by ransomware gangs CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks. [...]",
     "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs"
+  },
+  "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-10T20:00:34+00:00",
+    "source": "BleepingComputer",
+    "summary": "CISA orders feds to patch Samsung zero-day used in spyware attacks CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
+    "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks"
   },
   "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/": {
     "categories": [
@@ -847,6 +925,17 @@
     "summary": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel. [...]",
     "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks"
   },
+  "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/": {
+    "categories": [
+      "Security",
+      "Software"
+    ],
+    "image": "",
+    "published": "2025-11-10T22:25:55+00:00",
+    "source": "BleepingComputer",
+    "summary": "Mozilla Firefox gets new anti-fingerprinting defenses Mozilla announced a major privacy upgrade in Firefox 145 that reduces even more the number of users vulnerable to digital fingerprinting. [...]",
+    "title": "Mozilla Firefox gets new anti-fingerprinting defenses"
+  },
   "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/": {
     "categories": [
       "Security"
@@ -896,6 +985,16 @@
     "summary": "Open VSX rotates access tokens used in supply-chain malware attack The Open VSX registry rotated access tokens after they were accidentally leaked by developers in public repositories and allowed threat actors to publish malicious extensions in an attempted supply-chain attack. [\u2026",
     "title": "Open VSX rotates access tokens used in supply-chain malware attack"
   },
+  "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-10T18:32:29+00:00",
+    "source": "BleepingComputer",
+    "summary": "Popular JavaScript library expr-eval vulnerable to RCE flaw A critical vulnerability in the popular expr-eval JavaScript library,\u00a0with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input. [...]",
+    "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw"
+  },
   "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/": {
     "categories": [
       "Security"
@@ -905,6 +1004,16 @@
     "source": "BleepingComputer",
     "summary": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own QNAP has fixed seven zero-day vulnerabilities that security researchers exploited to hack QNAP network-attached storage (NAS) devices during the Pwn2Own Ireland 2025 competition. [...]",
     "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own"
+  },
+  "https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-10T21:29:03+00:00",
+    "source": "BleepingComputer",
+    "summary": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide A new phishing automation platform named Quantum Route Redirect is using around\u00a01,000 domains to steal\u00a0Microsoft 365 users' credentials. [...]",
+    "title": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide"
   },
   "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/": {
     "categories": [
@@ -1016,6 +1125,16 @@
     "summary": "Why password controls still matter in cybersecurity Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating u\u2026",
     "title": "Why password controls still matter in cybersecurity"
   },
+  "https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-10T19:12:51+00:00",
+    "source": "BleepingComputer",
+    "summary": "Yanluowang initial access broker pleaded guilty to ransomware attacks A Russian national will plead guilty to acting as an initial access broker (IAB) for\u00a0Yanluowang ransomware attacks that targeted at least eight U.S. companies between July 2021 and November 2022. [...]",
+    "title": "Yanluowang initial access broker pleaded guilty to ransomware attacks"
+  },
   "https://www.darkreading.com/application-security/ai-code-security-checkpoints": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd24301d83151834e/6904f9a3dbd06d5d5df23a9c/checkpoint-Carmen_K_Sisson_Cloudybright-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -1039,6 +1158,14 @@
     "source": "darkreading",
     "summary": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions.",
     "title": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft"
+  },
+  "https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf79663c8258d2e9f/69125bcec5908516224a49b7/supplychain_A9_STUDIO_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-10T22:14:09+00:00",
+    "source": "darkreading",
+    "summary": "OWASP Highlights Supply Chain Risks in New Top 10 List Security misconfiguration jumped to second place while injection vulnerabilities dropped, as organizations improve defenses against traditional coding flaws.",
+    "title": "OWASP Highlights Supply Chain Risks in New Top 10 List"
   },
   "https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market": {
     "categories": [],
@@ -1094,6 +1221,14 @@
     "summary": "Zombie Projects Rise Again to Undermine Security Companies left them for dead, but the remnants of old infrastructure and failed projects continue to haunt businesses' security teams.",
     "title": "Zombie Projects Rise Again to Undermine Security"
   },
+  "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56ef817a1f232ae9/6911d3af65d9f310204cfea1/booking-Aleksey_Zotov-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-10T15:16:58+00:00",
+    "source": "darkreading",
+    "summary": "ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks Attackers compromise hospitality providers with an infostealer and RAT malware and then use stolen data to launch phishing attacks against customers via both email and WhatsApp.",
+    "title": "ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks"
+  },
   "https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bad5a96bf971dd6/690a6bbdde23c9a41f7926f4/europecyber1800_mauritius_images_GmbH_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -1101,6 +1236,14 @@
     "source": "darkreading",
     "summary": "Europe Sees Increase in Ransomware, Extortion Attacks European organizations face an escalating cyber threat landscape as attackers leverage geopolitical tensions and AI-enhanced social engineering for attacks.",
     "title": "Europe Sees Increase in Ransomware, Extortion Attacks"
+  },
+  "https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9ab1ebbf7e0de17/69124bde0cb89be120e94eb7/worm_virus_Vince_Clements_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-10T21:53:50+00:00",
+    "source": "darkreading",
+    "summary": "GlassWorm Returns, Slices Back into VS Code Extensions GlassWorm, a self-propagating VS Code malware first found in the Open VSX marketplace, continues to infect developer devices around the world.",
+    "title": "GlassWorm Returns, Slices Back into VS Code Extensions"
   },
   "https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks": {
     "categories": [],
