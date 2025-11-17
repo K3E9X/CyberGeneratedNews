@@ -485,6 +485,14 @@
     "summary": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Br\u2026",
     "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data"
   },
+  "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_qGZvQDuR4AG6uEiMhGDHMsSkL1TLRNfW1kBylVrG6oiDRdisUMsnMb2vjfad2_IywwPHoJsNNX4kuhs_1UPn07KCLnt_z7C0AdmNTfDNKApwOAKnjDtuNuPR84jCFyw6deU-N6D3Jj8kR-BcV9sKidAEvdTxKFZA71P8OmCpvVgekFZCTwmMzoXS9qc2/s1600/android-rust.jpg",
+    "published": "2025-11-17T06:02:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% for the first time.\n\"We ad\u2026",
+    "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time"
+  },
   "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s1600/mobile-exploit.jpg",
@@ -1268,6 +1276,18 @@
     "source": "BleepingComputer",
     "summary": "Google sues to dismantle Chinese phishing platform behind US toll scams Google has filed a lawsuit to dismantle the \"Lighthouse\" phishing-as-a-service platform used by cybercriminals worldwide to steal credit card information through SMS phishing attacks impersonating the U.S. Po\u2026",
     "title": "Google sues to dismantle Chinese phishing platform behind US toll scams"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/": {
+    "categories": [
+      "Security",
+      "Google",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2025-11-16T15:15:25+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google to flag Android apps with excessive battery use on the Play Store Google will start taking action on Android apps in the official Google Play store that have high background activity and cause excessive battery draining. [...]",
+    "title": "Google to flag Android apps with excessive battery use on the Play Store"
   },
   "https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/": {
     "categories": [
