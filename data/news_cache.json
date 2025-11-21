@@ -181,6 +181,14 @@
     "summary": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) comm\u2026",
     "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks"
   },
+  "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH2aVkVgE_AQcR38boab-hJ6KPZrNbJ2Q12DXvADAqDV8kVqEmRnL4VzFH95VhcRrYxIo0iS-Sb_9NwtZUVm5CxCmk0q0Eywnjik5050X0JPziBgeTK9YSKhKdkOZNvOhm75YitAMspH9sZSEqRXIJurcgfRgOYbCfEqGZBHUwwW7RtOJ3Lw8sg0rX4mI/s1600/ctm360.jpg",
+    "published": "2025-11-20T11:30:00+00:00",
+    "source": "The Hacker News",
+    "summary": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnC\u2026",
+    "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat"
+  },
   "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbX8J0_0T47YXAz7Dd3-oMDVE4jIN0KXLb0QHkdJOWEk1wS2tdrwCXtpfTtDW1YHXbqE2HMyNm4L6QZc3cEKQDnDGBAtiZL6CUlj0G1rGy3-9MFgpov7t3u4CtYJbkk3UDi_05qp5ScoXOKcn3duBXop74yVHiPN2epcn7CpoKQOZjwtVBAjrHj79iPxx/s1600/hacking-trucks.jpg",
@@ -365,6 +373,14 @@
     "summary": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to\u2026",
     "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation"
   },
+  "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVj8J2nS9lYGZyFEqx7TaQVA9AtDdRKj5kb7gKdT1MipdOYmYLn3fcggw2zKHTxKKMvicuO3N7UFEj-QVsoDO-rcOe8JpfJwSCTjX9LcYQNA9iGxHTvQy3AXyFqJWAjhwf33_AH5bndm7rqeKwlkTwB37MhQ09RRfRB9PdYIvrFFKJl44vcP92df_PStz6/s1600/iran-hackers.jpg",
+    "published": "2025-11-20T07:35:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targetin\u2026",
+    "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt"
+  },
   "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZy2HLaE1qe-Ab4Bld4GiRpAYh0uVDVr3zCE1p400nKomsAs0MdvK9oCnNrJALSYPVvJud59Ik0Ax90X12KX93i97AwzbnUHm262vSL-nelhZHwRQR6WIFNd_u43NOt4QR8yOpzgC9wQUabBhtxfz45S210t-Tw-hb6iJWQ7RQNIfupIRQuvWuDBu1GgWs/s1600/iran-hackers.jpg",
@@ -493,6 +509,14 @@
     "summary": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea The North Korea-linked threat actor known as Kimsuky has distributed a previously undocumented backdoor codenamed HttpTroy as part of a likely spear-phishing attack targeting a single victim in Sout\u2026",
     "title": "New HttpTroy Backdoor Poses as VPN Invoice in Targeted Cyberattack on South Korea"
   },
+  "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8I7UV4u8O03jdgw6jpt_ITLXyqrcwoVLRUr_84vWKRe9ctYFLOAhKGvO7poJq_5YZwb7-3a2NzF0smKc5U0KOj6dgRmw5o0jWI0xEtZMjZTZ8KByylPoes-8t_8sXq7wWEyJ_TQtjI81OS1hx-uAG5a3xVCgEd9sqr3JlCemLHuS9ui-ctH6KjH8-uQri/s1600/android-malware.jpg",
+    "published": "2025-11-20T11:04:00+00:00",
+    "source": "The Hacker News",
+    "summary": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator\u2026",
+    "title": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices"
+  },
   "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhezv9r6ClrAlk-BAArf2qit1LLkCBtsnc22v9EJEuoGm8ZQfYXSoQJdoTrKRMDlQMCkhtTbaHx3mCh86eh1NHLPkFQQGDQ33zkO0W44RQac1TFZhD2-kKTk4WZIEWJzYrsGHjGEzSOEvFiZGpQa35Fli1w5rqbjrOdq3QtvpUPRl28X3vv1urOJpV4s-th/s1600/json.jpg",
@@ -613,6 +637,14 @@
     "summary": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% for the first time.\n\"We ad\u2026",
     "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time"
   },
+  "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdytMLXEXAyU2NJK6I9fULfbh3_5LHXiwqUiFrPD9dP1oEttB2sIbilhx2JTfRV70qGw9NTB4a4C3iqkAfnoR5m4lLxxKBNBWTI6DVQYP3wwHPQHFBkAec9GjKXpzFgMrne79uyQeVa31-yB4vx1nG3FDWsCj3ZHxxLUfk17qAx95t0IeqCSPVu47pILv/s1600/salesforce.jpg",
+    "published": "2025-11-21T05:32:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity Salesforce has warned of detected \"unusual activity\" related to Gainsight-published applications connected to the platform.\n\"Our investigation indicates this activity may have enabled unauthorized acces\u2026",
+    "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity"
+  },
   "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s1600/mobile-exploit.jpg",
@@ -644,6 +676,14 @@
     "source": "The Hacker News",
     "summary": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and secu\u2026",
     "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages"
+  },
+  "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT14rn9vNidJuASiqy00Z9vRhL2TJTbX0JWycjYzO4IMjRmjIUXYYKPW_F9caqm4qWn0bA9iY9h9LN8ZaKhPI-IeWf2vpei5sHpskrH2L6OW-g5GpmbomdG-aTT9gswof2O4jhQJQyVEui8OmK4nJ72lRr92-8lcikB8w9w8V7z3xpQ8qYZaNkoSV8HMNn/s1600/clusture-hacking.jpg",
+    "published": "2025-11-20T17:24:00+00:00",
+    "source": "The Hacker News",
+    "summary": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs \u2026",
+    "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet"
   },
   "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html": {
     "categories": [],
@@ -677,6 +717,14 @@
     "summary": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations Security Operations Centers (SOC) today are overwhelmed. Analysts handle thousands of alerts every day, spending much time chasing false positives and adjusting detection rules reac\u2026",
     "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations"
   },
+  "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDHftpu1bcFinhNlKIe66O-YOhqR69P1D1ZpFlYfjlxgf3VjuOBQwN0d1nhn7OmTTmSi0RhtBpxPPD2pmU9_a-t4FAadKhz38Ex4Ix3Lu9XBQMSqEwj6xhbu55QUwqmPXmQPgRJdml181QdebM1BIwrDqMvA_QNLZvwjXq61_q_LkghJ7EQWVNyFzObDgh/s1600/threatsday-main.jpg",
+    "published": "2025-11-20T12:29:00+00:00",
+    "source": "The Hacker News",
+    "summary": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting \u2026",
+    "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves"
+  },
   "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html": {
     "categories": [],
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyQ0PFVFVKeK3ifBAYFp_8mGPq2I3Qp4ofpoaDKvrYyNeNwRk0O9XarwKrKOns6jD1W_TYqQsgzxiJ0PynmKe3sx6cUbyR29d8ERCzuPjm0LjxPimsPr2_fZW5aPbUii5SFaaqIpUHa5wUZAN75l_i5Z1JrjVrMwYWholAsVMe_2EBaN5_T2cFNTvnK2U/s1600/threatsday.jpg",
@@ -700,6 +748,14 @@
     "source": "The Hacker News",
     "summary": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May \u2026",
     "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine"
+  },
+  "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html": {
+    "categories": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWCzFuJ27zRdLiXDJLbzAKsXq1B21v769VXyN0N9wjg3aQQPMHqsiaxXi3V6LM1xbQCB0ecsOjlEEORaSeRnnFVBjK3OtrxcTS_oSQiadmLSZNDow8eeIB5QVX8q19t6MyRR5XL2CRsTy7QD-GtWn82x_HH1gcas-9NW1vDfN3QlvcpUSqRa1gnMNBD2xJ/s1600/botnet-malware-windows.jpg",
+    "published": "2025-11-20T16:57:00+00:00",
+    "source": "The Hacker News",
+    "summary": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retri\u2026",
+    "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows"
   },
   "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html": {
     "categories": [],
@@ -841,6 +897,17 @@
     "source": "BleepingComputer",
     "summary": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro OpenAI is preparing the GPT-5.1 family for public rollout. This includes GPT-5.1 (base), GPT-5.1 Reasoning, and GPT-5.1 Pro for those who pay a $200 monthly subscription. [...]",
     "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro"
+  },
+  "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/": {
+    "categories": [
+      "Artificial Intelligence",
+      "Technology"
+    ],
+    "image": "",
+    "published": "2025-11-20T00:00:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "OpenAI says its latest GPT-5.1 Codex can code independently for hours OpenAI has started rolling out GPT 5.1-Codex-Max on Codex with a better performance on coding tasks. [...]",
+    "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours"
   },
   "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/": {
     "categories": [
@@ -1420,6 +1487,17 @@
     "summary": "Cyber theory vs practice: Are you navigating with faulty instruments? Security teams rely on dashboards and data feeds, but outdated or fragmented tools leave dangerous blind spots across assets, vulnerabilities, and credentials. Learn how Outpost24's CompassDRP unifies EASM and \u2026",
     "title": "Cyber theory vs practice: Are you navigating with faulty instruments?"
   },
+  "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/": {
+    "categories": [
+      "Security",
+      "Hardware"
+    ],
+    "image": "",
+    "published": "2025-11-20T15:38:56+00:00",
+    "source": "BleepingComputer",
+    "summary": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers D-Link is warning of three remotely exploitable command execution vulnerabilities\u00a0that affect all models and hardware revisions of its DIR-878\u00a0router, which has reached end-of-service but is still\u00a0available in several m\u2026",
+    "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers"
+  },
   "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/": {
     "categories": [
       "Security"
@@ -1613,6 +1691,26 @@
     "summary": "GlobalLogic warns 10,000 employees of data theft after Oracle breach GlobalLogic, a provider of digital engineering services part of the Hitachi group, is notifying over 10,000 current and former employees that their data was stolen in an Oracle E-Business Suite (EBS) data breach\u2026",
     "title": "GlobalLogic warns 10,000 employees of data theft after Oracle breach"
   },
+  "https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-20T17:08:55+00:00",
+    "source": "BleepingComputer",
+    "summary": "GlobalProtect VPN portals probed with 2.3 million scan sessions A major spike in malicious scanning against Palo Alto Networks GlobalProtect portals has been detected, starting on November 14, 2025. [...]",
+    "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions"
+  },
+  "https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-20T22:12:32+00:00",
+    "source": "BleepingComputer",
+    "summary": "Google exposes BadAudio malware used in APT24 espionage campaigns China-linked APT24 hackers have been using a previously undocumented malware called BadAudio in a\u00a0three-year espionage campaign that recently switched to more sophisticated attack methods. [...]",
+    "title": "Google exposes BadAudio malware used in APT24 espionage campaigns"
+  },
   "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/": {
     "categories": [
       "Security",
@@ -1667,6 +1765,16 @@
     "source": "BleepingComputer",
     "summary": "Gootloader malware is back with new tricks after 7-month break The Gootloader malware loader operation has returned after a 7-month absence and is once again performing SEO poisoning to promote fake websites that distribute the malware. [...]",
     "title": "Gootloader malware is back with new tricks after 7-month break"
+  },
+  "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-20T18:54:17+00:00",
+    "source": "BleepingComputer",
+    "summary": "Hacker claims to steal 2.3TB data from Italian rail group, Almaviva Data from Italy's national railway operator, the\u00a0FS Italiane Group, has been exposed after a threat actor breached the organization's IT services provider, Almaviva. [...]",
+    "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almaviva"
   },
   "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/": {
     "categories": [
@@ -1883,6 +1991,17 @@
     "summary": "Mozilla Firefox gets new anti-fingerprinting defenses Mozilla announced a major privacy upgrade in Firefox 145 that reduces even more the number of users vulnerable to digital fingerprinting. [...]",
     "title": "Mozilla Firefox gets new anti-fingerprinting defenses"
   },
+  "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/": {
+    "categories": [
+      "Security",
+      "Mobile"
+    ],
+    "image": "",
+    "published": "2025-11-20T10:00:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages A new Android banking trojan named Sturnus can capture communication from\u00a0end-to-end encrypted messaging platforms like Signal, WhatsApp, and Telegram, as well as take complete control of the device. [...]",
+    "title": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages"
+  },
   "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/": {
     "categories": [
       "Security"
@@ -1924,6 +2043,16 @@
     "source": "BleepingComputer",
     "summary": "New ShadowRay attacks convert Ray clusters into crypto miners A global campaign dubbed ShadowRay 2.0 hijacks exposed Ray Clusters\u00a0by exploiting an old code execution flaw to turn\u00a0them into a self-propagating cryptomining botnet. [...]",
     "title": "New ShadowRay attacks convert Ray clusters into crypto miners"
+  },
+  "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-20T15:56:00+00:00",
+    "source": "BleepingComputer",
+    "summary": "New SonicWall SonicOS flaw allows hackers to crash firewalls American cybersecurity company SonicWall urged customers today to patch a high-severity SonicOS SSLVPN security flaw that can allow attackers to crash vulnerable firewalls. [...]",
+    "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls"
   },
   "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/": {
     "categories": [
@@ -2096,6 +2225,27 @@
     "summary": "Russian hackers abuse Hyper-V to hide malware in Linux VMs The Russian hacker group Curly COMrades is abusing Microsoft Hyper-V in Windows to bypass endpoint detection and response solutions by creating a hidden Alpine Linux-based virtual machine to run malware. [...]",
     "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs"
   },
+  "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-20T16:47:20+00:00",
+    "source": "BleepingComputer",
+    "summary": "Salesforce investigates customer data theft via Gainsight breach Salesforce says it revoked refresh tokens linked to Gainsight-published applications while investigating a new wave of data theft attacks targeting customers. [...]",
+    "title": "Salesforce investigates customer data theft via Gainsight breach"
+  },
+  "https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/": {
+    "categories": [
+      "Security",
+      "CryptoCurrency"
+    ],
+    "image": "",
+    "published": "2025-11-20T10:49:37+00:00",
+    "source": "BleepingComputer",
+    "summary": "Crypto mixer founders sent to prison for laundering over $237 million The founders of the Samourai Wallet (Samourai) cryptocurrency mixing service have been sent to prison for helping criminals launder over $237 million. [...]",
+    "title": "Crypto mixer founders sent to prison for laundering over $237 million"
+  },
   "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/": {
     "categories": [
       "Security"
@@ -2187,6 +2337,27 @@
     "source": "BleepingComputer",
     "summary": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA Tycoon 2FA enables turnkey real-time MFA relays behind 64,000+ attacks this year, proving legacy MFA collapses the moment a phishing kit targets it. Learn from Token Ring how biometric, phishing-proof FIDO2 hardware \u2026",
     "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA"
+  },
+  "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/": {
+    "categories": [
+      "Security",
+      "Microsoft"
+    ],
+    "image": "",
+    "published": "2025-11-20T15:05:15+00:00",
+    "source": "BleepingComputer",
+    "summary": "Turn your Windows 11 migration into a security opportunity Windows 11 migration is inevitable as Windows 10 support ends, and unsupported systems create major security and ransomware risks. Acronis explains how to use this migration to review backups, strengthen cybersecurity, an\u2026",
+    "title": "Turn your Windows 11 migration into a security opportunity"
+  },
+  "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/": {
+    "categories": [
+      "Security"
+    ],
+    "image": "",
+    "published": "2025-11-20T13:31:43+00:00",
+    "source": "BleepingComputer",
+    "summary": "TV streaming piracy service with 26M yearly visits shut down Photocall, a TV piracy streaming platform with over 26 million users annually, has ceased operations following a joint investigation by the Alliance for Creativity and Entertainment (ACE) and DAZN. [...]",
+    "title": "TV streaming piracy service with 26M yearly visits shut down"
   },
   "https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/": {
     "categories": [
@@ -2660,6 +2831,14 @@
     "summary": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls IoT devices can be compromised, thanks to gaps in cloud management interfaces for firewalls and routers, even if they're protected by security software or not online.",
     "title": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls"
   },
+  "https://www.darkreading.com/cybersecurity-operations/iran-cyber-objectives": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb6c6ecba55de63d0/691f48818c5f3bcf3104019d/US_Iran_image_concept_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-21T05:02:00+00:00",
+    "source": "darkreading",
+    "summary": "Inside Iran's Cyber Objectives: What Do They Want? The regime's cyber-espionage strategy employs dual-use targeting, collecting info that can support both military needs and broader political objectives.",
+    "title": "Inside Iran's Cyber Objectives: What Do They Want?"
+  },
   "https://www.darkreading.com/cybersecurity-operations/iran-nexus-threat-actor-unc1549-takes-aim-aerospace": {
     "categories": [],
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12fba0d15cec68b0/691cd806721f4e7d3d6dc556/airplane_Sylvain_Oliveira_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
@@ -2708,12 +2887,28 @@
     "summary": "Let's Get Physical: A New Convergence for Electrical Grid Security The power grid is being attacked online and IRL. Increasingly, regulators and industry experts agree: Security teams need to focus on both cyber and physical threats, together.",
     "title": "Let's Get Physical: A New Convergence for Electrical Grid Security"
   },
+  "https://www.darkreading.com/cybersecurity-operations/security-problems-cyber-training-fails-miserably": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a6a52f4976984fe/691e31fd23c56b4f727e264c/failinggrade1800_Jason_Kolenda_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-20T20:18:16+00:00",
+    "source": "darkreading",
+    "summary": "Same Old Security Problems: Cyber Training Still Fails Miserably Editors from Dark Reading, Cybersecurity Dive, and TechTarget Search Security break down the depressing state of cybersecurity awareness campaigns and how organizations can overcome basic struggles with password hyg\u2026",
+    "title": "Same Old Security Problems: Cyber Training Still Fails Miserably"
+  },
   "https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty": {
     "categories": [],
     "published": "2025-10-30T20:51:33+00:00",
     "source": "darkreading",
     "summary": "US Stands Out in Refusal to Sign UN Cybercrime Treaty The agreement aims to help law enforcement prosecute cross-border cybercrime, but the final treaty could allow unchecked surveillance and human-rights abuses, critics say; and, it includes no protection for pen testers.",
     "title": "US Stands Out in Refusal to Sign UN Cybercrime Treaty"
+  },
+  "https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c2272ac0964d1a8/691f71f3294e2502ff8a7325/Plush_daemon-Michal_Boubin-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-20T21:20:32+00:00",
+    "source": "darkreading",
+    "summary": "Chinese APT Infects Routers to Hijack Software Updates A unique take on the software update gambit has allowed &quot;PlushDaemon&quot; to evade attention as it mostly targets Chinese organizations.",
+    "title": "Chinese APT Infects Routers to Hijack Software Updates"
   },
   "https://www.darkreading.com/endpoint-security/phishing-tool-smart-redirects-bypass-email-security": {
     "categories": [],
@@ -2825,6 +3020,22 @@
     "source": "darkreading",
     "summary": "Google Looks to Dim 'Lighthouse' Phishing-as-a-Service Op The phishing kit, run by a group known as the &quot;Smishing Triad,&quot; has powered massive amounts of unpaid tolls and package tracking texts.",
     "title": "Google Looks to Dim 'Lighthouse' Phishing-as-a-Service Op"
+  },
+  "https://www.darkreading.com/threat-intelligence/matrix-push-c2-tool-hijacks-browser-notifications-phishing": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4f92811f8645c0f6/691f5a21ce05bdd0f66b605c/Matrix_Push_dashboard-BlackFog.png?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-20T20:44:34+00:00",
+    "source": "darkreading",
+    "summary": "'Matrix Push' C2 Tool Hijacks Browser Notifications Have you ever given two seconds of thought to a browser notification? No? That's what hackers bent on phishing are counting on.",
+    "title": "'Matrix Push' C2 Tool Hijacks Browser Notifications"
+  },
+  "https://www.darkreading.com/threat-intelligence/whatsapp-eternidade-trojan-self-propagates-brazil": {
+    "categories": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb70953cd71b5d93a/691e0f7600d62c772d4ce041/Father_of_Eternity-jozef_sedmak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+    "published": "2025-11-20T14:00:00+00:00",
+    "source": "darkreading",
+    "summary": "WhatsApp 'Eternidade' Trojan Self-Propagates Through Brazil The infostealer specifically targets Brazilian Portuguese speakers and combines malware designed to phish banking credentials and steal data, a worm, and some uniquely Brazilian quirks.",
+    "title": "WhatsApp 'Eternidade' Trojan Self-Propagates Through Brazil"
   },
   "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open": {
     "categories": [],
